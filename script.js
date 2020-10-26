@@ -1,7 +1,7 @@
-let ownerName = "Your Name"
-let userName = "YourUsername";
+let ownerName = "Vincenzo Monterosso"
+let userName = "vincenzom6456";
 
-document.querySelectorAll(".owner-name").forEach((e) => {
+document.querySelectorAll("Vincenzo M").forEach((e) => {
     e.innerHTML = ownerName;
 });
 
